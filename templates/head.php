@@ -19,12 +19,12 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- Main CSS-->
-   <link rel="stylesheet" type="text/css" href="/skru-pdo-camp/assets/plugins/vali-admin/css/main.css">
+   <link rel="stylesheet" type="text/css" href="<?php echo ROOT_PROJECT; ?>/assets/plugins/vali-admin/css/main.css">
    <!-- Font-icon css-->
    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-
    <!-- include summernote css/js -->
-   <link href="/skru-pdo-camp/assets/plugins/summernote/summernote-bs4.min.css" rel="stylesheet">
+   <link href="<?php echo ROOT_PROJECT; ?>/assets/plugins/summernote/summernote-bs4.min.css" rel="stylesheet">
+
+   <link rel="stylesheet" type="text/css" href="<?php echo ROOT_PROJECT; ?>/assets/css/styles.css">
 </head>

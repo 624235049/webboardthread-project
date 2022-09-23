@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@400;700&family=Staatliches&display=swap');
+
+body {
+   font-family: 'Sarabun', sans-serif;
+}
+
+.app-header__logo,
+.login-content .logo h1 {
+   font-family: 'Staatliches', cursive !important;
+}
